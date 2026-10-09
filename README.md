@@ -41,3 +41,4 @@ The prototype explores how review signals could be presented to shoppers. It has
 
 ![image alt](https://github.com/MANASA-D-PROJECTS/FILTEROUT-Review-Decision-Support/blob/52a06398e283320538d281bc5007b9f986a4c2d8/FILTEROUT.png)
 ![image alt](https://github.com/MANASA-D-PROJECTS/FILTEROUT-Review-Decision-Support/blob/a17cdf4dfa72c52da636a1fa7e8b589ab73eb87b/FILTEROUT-Score.png)
+![image alt](https://github.com/MANASA-D-PROJECTS/FILTEROUT-Review-Decision-Support/blob/7060b575e4ef19882d3c1fca6af0e15554f9d3a1/FILTEROUT-Score-Evidence.png)
